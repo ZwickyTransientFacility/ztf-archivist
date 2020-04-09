@@ -24,7 +24,7 @@ setup(
     ],
     author="Spencer Nelson",
     author_email="swnelson@uw.edu",
-    license="MIT",
+    license="BSD",
     packages=[],
     scripts=["bin/ztf-archivist"],
     install_requires=install_requires,
